@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/react-use-caret-position/static/js/2.aa56a9cb.chunk.js"
   },
   {
-    "revision": "975f92d8b645f3c1c9dd64fc179d2062",
+    "revision": "2a1d9c4cb6de175a56dfcf4ea7a08ca5",
     "url": "/react-use-caret-position/index.html"
   }
 ];
