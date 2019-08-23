@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-use-caret-position/precache-manifest.8672f0c67a7c66d3ac71bd1e7abf9f12.js"
+  "/react-use-caret-position/precache-manifest.1a6fd04e81f5840d93b880b5d99ef8d4.js"
 );
 
 workbox.clientsClaim();
